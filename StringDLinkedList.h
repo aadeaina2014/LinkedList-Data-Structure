@@ -1,3 +1,9 @@
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : StringDLinkedList.h
+File Description:  String DoublyLinkedList Interface
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
 #ifndef STRINGDLINKEDLIST_H_
 #define STRINGDLINKEDLIST_H_
 
