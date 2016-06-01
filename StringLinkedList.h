@@ -1,3 +1,9 @@
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : StringLinkedList.h
+File Description: String LinkedList Interface
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
 #ifndef StringLinkedList_H_
 #define StringLinkedList_H_
 
