@@ -1,3 +1,5 @@
+
+
 #include "StringLinkedList.h"
 
 StringLinkedList::StringLinkedList()			// constructor
