@@ -1,5 +1,9 @@
-
-
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : StringLinkedList.cpp
+File Description: StringLinkedList class definition
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
 #include "StringLinkedList.h"
 
 StringLinkedList::StringLinkedList()			// constructor
