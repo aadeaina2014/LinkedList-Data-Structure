@@ -1,3 +1,9 @@
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : StringDLinkedList.cpp
+File Description: String DoublyLinkedList class definition
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
 #include "StringDLinkedList.h"
 
 
