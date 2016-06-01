@@ -1,3 +1,11 @@
+
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : main.cpp
+File Description: Application driver file for linkedlist Dta Structure
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
+
 #include "SLinkedList.h"
 #include "StringLinkedList.h"
 
